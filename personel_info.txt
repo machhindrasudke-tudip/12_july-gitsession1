@@ -1,3 +1,9 @@
 Name - Machhindra Sudke
 Age - 26
 Education -BE IT
+
+
+Git --version // for check git is installed in our machine
+
+
+go in to 
